@@ -2,9 +2,9 @@
 
 
 - 🔭 Tenho interesse em seguir com a carreira de Análise de Dados
-- 🌱 Atualmente estou com foco nos estudos em Python
+- 🌱 Atualmente estou com foco nos estudos em Lógica de Programação e Python.
 - 😄 Pronouns: Ela/dela
-- ⚡ Fun fact: sou ARMY, apaixonada por filmes músicais e gosto de comer doce e salgado juntos ao mesmo tempo.
+- ⚡ Fun fact: Comecei na área de TI querendo virar Back-End mas a área de Dados me chamou mais atenção no fim do curso da faculdade.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
