@@ -1,10 +1,9 @@
 ## Oii, sou a Gabriela sem o W 👋
 
 
-- 🔭 Tenho interesse em seguir com a carreira de Análise de Dados
-- 🌱 Atualmente estou com foco nos estudos em Lógica de Programação e Python.
+- 🔭 Tenho interesse em seguir com a área de desenvolvimento.
+- 🌱 Atualmente estou com foco nos estudos em Lógica de Programação e Desenvolvimento web (HTML5, CSS, JS).
 - 😄 Pronouns: Ela/dela
-- ⚡ Fun fact: Comecei na área de TI querendo virar Back-End mas a área de Dados me chamou mais atenção no fim do curso da faculdade.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
